@@ -1,0 +1,19 @@
+body
+{
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    color: white;   
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    
+}
+.container
+{
+   
+   justify-content: center;
+    background-color: black;
+    border: 2px solid;
+    border-radius: 20px;
+    margin-top:20px;
+    padding:10px
+    
+}
